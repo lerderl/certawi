@@ -1,0 +1,14 @@
+.header {
+  max-height: 291px;
+  box-shadow: 0px 0.5px 5px rgba(34, 34, 34, 0.25);
+}
+.cert {
+  font-size: 27px;
+  color: #19A68E;
+  line-height: 34px;
+  font-style: normal;
+  letter-spacing: -0.004em;
+}
+.awi {
+  color: #7B41B4;
+}

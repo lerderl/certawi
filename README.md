@@ -9,3 +9,7 @@ A certificate generator team page containing details of each member of the team.
 3. Navigate into the directory
 4. Run `npm install` command
 5. Run `npm start` command. This will run the aapplication on the [localhost](http://localhost:3000/)
+
+## Install packages
+
+- Run `npm install react-bootstrap bootstrap` command to install styling packages 
